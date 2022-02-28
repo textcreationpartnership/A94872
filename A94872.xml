@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Francis Seymor his honourable, and worthy speech, spoken in the high court of Parliament shewing what dangers doe insue by want of priviledge of Parliament. And how the splendor of His Majestyes glory is eclipsed with toleration of Iesuits, seminary priests, and bad ministers who still have abiding amongst us. As also, such who have betrayed the King unto himselfe, to bring the subjects under slavery. Whereby the King can neither be preserved in honour, nor the Common-wealth in safety whereunto is annexed, Sir Walter Earle his paraphrase, concerning Bishop White.</title>
+            <author>Seymour, Francis, Baron Seymour of Trowbridge, 1590?-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94872</idno>
+            <idno type="STC">Wing T2321</idno>
+            <idno type="STC">Thomason E199_35</idno>
+            <idno type="STC">ESTC R9846</idno>
+            <idno type="EEBO-CITATION">99873620</idno>
+            <idno type="PROQUEST">99873620</idno>
+            <idno type="VID">157533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157533)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Francis Seymor his honourable, and worthy speech, spoken in the high court of Parliament shewing what dangers doe insue by want of priviledge of Parliament. And how the splendor of His Majestyes glory is eclipsed with toleration of Iesuits, seminary priests, and bad ministers who still have abiding amongst us. As also, such who have betrayed the King unto himselfe, to bring the subjects under slavery. Whereby the King can neither be preserved in honour, nor the Common-wealth in safety whereunto is annexed, Sir Walter Earle his paraphrase, concerning Bishop White.</title>
+                  <author>Seymour, Francis, Baron Seymour of Trowbridge, 1590?-1664.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final leaf = Sir Walter Earle's paraphrase concerning Bishop White.</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Privileges and immunities --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157533:1"/>
+            <pb facs="tcp:157533:1" rendition="simple:additions"/>
+            <p>SIR FRANCIS SEYMOR HIS HONOURABLE, AND WORTHY SPEECH, Spoken in the High Court of PARLIAMENT SHEWING What Dangers doe inſue by want of Priviledge of Parliament. And how the Splendor of His Majeſtyes Glory is Eclipſed With toleration of <hi>Ieſuits,</hi> Seminary prieſts, and bad Miniſters who ſtill have abiding amongſt Us. As alſo, ſuch who have betrayed the <hi>King</hi> unto himſelfe, to bring the <hi>Subjects</hi> under <hi>ſlavery.</hi> Whereby the <hi>King</hi> can neither be preſerved in Honour, nor the <hi>Common-wealth in ſafety Whereunto is annexed, Sir Walter Earle his Paraphraſe, concerning Biſhop</hi> WHITE.</p>
+            <p>
+               <hi>London, Printed for W. H.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157533:2"/>
+            <pb n="1" facs="tcp:157533:2"/>
+            <head>An Honourable SPEECH Spoken in the high Court of <hi>Parliament.</hi>
+            </head>
+            <p>THis great Counſell (as <hi>Tully</hi> ſaid of the Senate of <hi>Rome</hi>) is the ſoule of the <hi>Common-wealth;</hi> wherein one may heare &amp; ſee all the Greevances of the ſub<g ref="char:EOLhyphen"/>jects and in the Multitude of ſuch Counſellors is ſafety.</p>
+            <p>Amongſt whom, the greateſt priviledge, is liberty of ſpeech. And therefore, J humbly offer it unto you, to take into conſideration, what wrong hath bin done herein, what Judg<g ref="char:EOLhyphen"/>ments hath bin againſt the <hi>Members</hi> of this Houſe, for ſpeaking nothing, but what con<g ref="char:EOLhyphen"/>cerned the good of the <hi>Commonwealth.</hi> Which ſaid Judgments hath beene againſt Law and Reaſon, and without preſident.</p>
+            <p>What Law or Reaſon is there, that a <hi>Par<g ref="char:EOLhyphen"/>liament,</hi>
+               <pb n="2" facs="tcp:157533:3"/>which is the higheſt of all Courts, ſhould be queſtioned by inferiour <hi>Courts,</hi> and Iudges: as if the <hi>Common-pleas</hi> ſhould queſtion the <hi>Kings be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch,</hi> or the <hi>Chancery</hi> be queſtioned by either of them.</p>
+            <p>Perhaps the Authors of it, have nature to pleade for themſelves, which indeed teacheth every man to preſerve himſelfe.</p>
+            <p>This perhaps, makes them advance that, &amp; thoſe members which otherwiſe muſt con<g ref="char:EOLhyphen"/>demne themſelves. And ſuch things have bin done, to maintaine their proceedings, as not only trench upon the liberties of Parliament, but alſo upon the liberties of the whole <hi>Com<g ref="char:EOLhyphen"/>mon-wealth:</hi> wherein I had rather ſuffer for ſpeaking the truth, then the truth ſhould ſuf<g ref="char:EOLhyphen"/>fer for want of my ſpeaking.</p>
+            <p>
+               <hi>Where was ever more Piety in a Prince, and more loyalty in Subjects, and yet what Common-wealth ever ſuffered like this.</hi>
+            </p>
+            <p>His Majeſty is the Sunne, which though it ever ſhines alike in it ſelfe gloriouſly; yet by reaſon of Clouds, many times it doth not ſo appeare, and if his Majeſty, by reaſon of bad members may not appeare in ſuch ſplendor, let us labour to cleere thoſe Clouds: what will it availe us, if the Fountaine be cleere, if the ſtreames that iſſue there-from be not ſo alſo. <hi>I</hi> will inſtance in ſome particulars.</p>
+            <p>If we looke into the face of Religion, that is
+<pb n="3" facs="tcp:157533:3"/>out-faced, and ſuch as heretofore durſt not appeare, come boldly into our houſes, as if they had a concealed toleration, <hi>I</hi> meane the Seminary Prieſts, who though they have leſſe power, yet have they not leſſe malice, but more, ſo long as the Pope hath his Agents a<g ref="char:EOLhyphen"/>mongſt us. See we not how they go to <hi>Somer<g ref="char:EOLhyphen"/>ſet houſe,</hi> and to S. <hi>James</hi> with too much coun<g ref="char:EOLhyphen"/>tenance? Theſe are the enemies of the church, without the church; <hi>I</hi> wiſh we had none with in it: who pull down churches, and <hi>I</hi> am ſure they build none up againe: Amongſt which are out <hi>Non-reſidents,</hi> who o're-ſway all by worldly preferments, and many livings.</p>
+            <p>
+               <hi>Chriſt</hi> made it the Touch-ſtone of <hi>Peters</hi> love unto him, to feed his ſheepe and lambes; but theſe men looke at their owne private gaines not taking pains for their own double honours, which are daily gotten.</p>
+            <p>What thing is there more againſt Reaſon and Nature, then for one man to have above one wife, and for one ſhepheard to have more then one ſheepefold.</p>
+            <p>Theſe are dumbe dogs, that cannot ſpeak a word for God, of whom the people may ſeeke ſpirituall food, but can find none.</p>
+            <p>Others there are that preach, but it is not the Goſpell<g ref="char:punc">▪</g> but themſelves, that the <hi>King</hi> hath an unlimited power, and the Subject noe propriety in their goods.
+<pb n="4" facs="tcp:157533:4"/>Theſe are bad Divines, and worſe, and more ignorant States-men; who under the name of Puritans, condemne all, who truly profeſſe Religion. There are ſurely many, who under a fo me of godlineſſe, cloake impiety: but to teach, that a man can be too holy, is the Do<g ref="char:EOLhyphen"/>ctrine of Divels.</p>
+            <p>And now, for feare I have bin over-long, I will ſpeake of the Subjects Liberties, where<g ref="char:EOLhyphen"/>in J remember, what was confirmed unto us by the word of a King; and God forbid, that I, or any other ſhould imagine, that the King did otherwiſe, then he granted us.</p>
+            <p>But ſome there be, that have betrayed the <hi>King</hi> unto himſelfe, and ſo committed worſe treaſon then thoſe, who betray him to others, who tell him his Prerogative is above all Lawes, and that his ſubjects are but ſlaves: whereby the King is neither preſerved in Ho<g ref="char:EOLhyphen"/>nour, nor the <hi>Common-wealth</hi> in ſafety.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:157533:4"/>
+            <pb facs="tcp:157533:5"/>
+            <head>Sir Walter Earle. His Paraphraſe fitly ſpoken concerning <hi>Biſhop White. in a former Parliament.</hi>
+            </head>
+            <p>QVi color albus erat, nunc eſt con<g ref="char:EOLhyphen"/>tarius albo.</p>
+            <p>
+               <hi>In Engliſh thus,</hi>
+            </p>
+            <p>The colour that was white, is now turn'd blacke.</p>
+            <p>
+               <hi>For Biſhop White hath ſold his Orthodox Bookes, and bought Ieſuits: that Biſhop White may goe arme in arme with Mountague.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
